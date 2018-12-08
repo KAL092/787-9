@@ -1022,7 +1022,7 @@
 			<file>Aircraft/787-9/Nasal/mfd-navigation.nas</file>
 			<file>Aircraft/787-9/Nasal/nd-fullscreen.nas</file>
 			<file>Aircraft/787-9/Nasal/tcas.nas</file>
-			<!--<file>Aircraft/787-9/Nasal/fbw.nas</file>-->
+			<file>Aircraft/787-9/Nasal/fbw.nas</file>
 			<file>Aircraft/787-9/Nasal/vnav.nas</file>
 			<file>Aircraft/787-9/Nasal/efb.nas</file>
 			<file>Aircraft/787-9/Nasal/chartsDB.nas</file>
